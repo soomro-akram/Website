@@ -4,19 +4,6 @@ A modern, responsive, and professional personal portfolio website built using **
 
 This portfolio showcases my education, skills, projects, and contact information in a clean and interactive design.
 
----
-
-## 🌐 Live Demo
-
-https://portfolio-akram17.vercel.app
-
----
-
-## 📸 Preview
-
-![Portfolio Preview](images/portfolio-preview.png)
-
----
 
 ## ✨ Features
 
